@@ -1,3 +1,3 @@
 # Titanic Streamlit App
 
-You can find it here: 
+You can find it here: https://titanic-api-streamlit.herokuapp.com/
